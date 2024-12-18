@@ -5,14 +5,14 @@ on MQTT.Cool.
 
 ## Live Demo
 
-[![Live Demo](screen-large.gif)](https://demos.mqtt.cool/hello-iot-world)
+[![Live Demo](screen-large.gif)](https://demos.lightstreamer.com/hello-iot-world)
 
-### [![](http://demos.mqtt.cool/resources/play.png) View live demo](https://demos.mqtt.cool/hello-iot-world)
+### [![](http://demos.lightstreamer.com/site/img/play.png) View live demo](https://demos.lightstreamer.com/hello-iot-world)
 
 ## Details
 
 The **Hello IoT World Demo** uses the
-*[MQTT.Cool Web Client API](https://mqtt.cool/docs/web-client-sdk/api/index.html)*
+*[MQTT.Cool Web Client API](https://lightstreamer.com/mqttcool/web-client-sdk/2.0.0/api/index.html)*
 to show how MQTT.Cool can be used to send real-time telemetry data through the
 Web and, very important, how incoming update flow can be further manipulated in
 terms of bandwidth and frequency management.
@@ -70,7 +70,7 @@ whatever MQTT broker you prefer, or may also use one of the available public
 broker (an up-to-date list is maintained at
 https://github.com/mqtt/mqtt.github.io/wiki/public_brokers).
 * Configure an MQTT.Cool instance. Please refer to mqtt.cool web site
-[download page](https://mqtt.cool/download/latest-server) to find the MQTT.Cool
+[download page](https://lightstreamer.com/download) to find the MQTT.Cool
 download package. MQTT.Cool comes with a set of predefined configurations for
 connecting with local MQTT server instances, as well as with the most common
 publicly accessible brokers. If you want to provide a new custom configuration,
@@ -166,7 +166,7 @@ received real-time metrics.
 
 ## See Also
 
-* [Check out all other demos on MQTT.Cool site](https://mqtt.cool/demos)
+* [Check out all other demos on MQTT.Cool site](https://demos.lightstreamer.com/?p=mqttcool)
 
 ## MQTT.Cool Compatibility Notes
 
